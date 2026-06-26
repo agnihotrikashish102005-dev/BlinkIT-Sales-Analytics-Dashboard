@@ -3,4 +3,4 @@ Blinkit Sales Analytics Dashboard built in Power BI to analyze outlet performanc
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](Blinkit-Sales-Dashboard-Screenshot.png)
+![Blinkit Dashboard](BlinkIT-Sales-Dashboard.png)
